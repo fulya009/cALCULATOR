@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Spec-required key colors -->
+    <color name="key_zero">#FF8033</color>   <!-- '0' highlight -->
+    <color name="key_ac">#FF3377</color>     <!-- All Clear -->
+    <color name="key_c">#337DFF</color>      <!-- Clear last entry -->
+
+    <!-- Styling to match the example screenshot -->
+    <color name="key_operator">#FF9F0A</color> <!-- + - * / ( ) = -->
+    <color name="key_digit">#4A4A5E</color>    <!-- 1-9 and . -->
+    <color name="panel_bg">#FAF8FF</color>
+    <color name="text_light">#FFFFFF</color>
+    <color name="text_dark">#1C1C28</color>
+</resources>
